@@ -1,6 +1,6 @@
 [user]
-	name = Erik Fastermann
-	email = erik@fastermann.de
+	name = Felix Bauer
+	email = felixb2509@icloud.com
 [alias]
     undo = "reset HEAD^"
     wipe = "!git reset --hard HEAD && git clean -fd"
